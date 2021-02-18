@@ -15,3 +15,8 @@ Using advanced image processing and deep learning algorithms the results of the 
 
 Read the paper at https://ieeexplore.ieee.org/document/9332210
 
+## Run in your machine:
+* `git clone https://github.com/sudo-rajarshi/Covid-Detection-from-CXR-Scans-using-Deep-Multi-layered-CNN.git`
+* `cd Covid-Detection-from-CXR-Scans-using-Deep-Multi-layered-CNN`
+* `pip3 install -r requirements.txt`
+* Open `jupyter notebook` and enjoy!

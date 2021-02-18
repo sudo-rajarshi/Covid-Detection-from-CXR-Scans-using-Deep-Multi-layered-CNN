@@ -1,0 +1,9 @@
+matplotlib==3.3.3
+pandas==1.1.5
+mlxtend==0.18.0
+tensorflow==2.4.0
+numpy==1.19.5
+opencv_python==4.5.1.48
+psutil==5.7.3
+Pillow==8.1.0
+scikit_learn==0.24.1
